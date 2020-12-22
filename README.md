@@ -1,1 +1,1 @@
-# ey-mooc-grader-sfc-releases
+# ey-mooc-grader-releases
