@@ -6,7 +6,7 @@ This repository contains the binaries of ***Grader App*** for ***e-Yantra MOOC**
 
 
 
-<center><img src="https://raw.githubusercontent.com/kalindkaria/typora-md-assets/master/sfc_part1_mooc/assets/grader_app_run.png" alt="grader_app_run"/></center>
+<center><img src="https://raw.githubusercontent.com/kalindkaria/typora-md-assets/master/sfc_part1_mooc/assets/ey_mooc_grader_app/grader_app_run.png" alt="grader_app_run"/></center>
 
 
 
