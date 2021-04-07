@@ -30,7 +30,13 @@ Following are the contents:
 
 ### Releases
 
-Checkout this page to get the latest release of e-Yantra MOOC Grader App.
+Checkout [this](https://github.com/eyantra/ey-mooc-grader-releases/releases/latest) page to get the latest release of e-Yantra MOOC Grader App.
+
+
+
+### Changelog
+
+Refer the [CHANGELOG](CHANGELOG.md) to know more on the recent updates and versions of the e-Yantra MOOC Grader App.
 
 
 
