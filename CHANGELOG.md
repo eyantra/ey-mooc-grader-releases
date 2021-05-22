@@ -6,6 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
+
+
+## 1.0.2 - 2021-05-23
+
+### Fixed
+
+- Increased time limit for code evaluation from 10 to 120 seconds, updated the App.
+
+<br>
+
+---
+
 ## 1.0.1 - 2021-04-07
 
 ### Fixed

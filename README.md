@@ -23,7 +23,7 @@ The Grader App has been tested **only** on the following **64 bit OS**:
 Following are the contents:
 
 - **ey-mooc-grader-sfc** - This is the binary file of Grader App for **Linux** OS.
-  - Latest version is **[v1.0.1](https://github.com/eyantra/ey-mooc-grader-releases/releases/tag/v1.0.1-sfc)**
+  - Latest version is **[v1.0.2](https://github.com/eyantra/ey-mooc-grader-releases/releases/tag/v1.0.2-sfc)**
   - Check the **[Wiki](https://github.com/eyantra/ey-mooc-grader-releases/wiki)** page to know more about the application and how to use it.
 
 
